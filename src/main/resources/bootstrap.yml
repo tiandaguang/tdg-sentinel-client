@@ -1,0 +1,16 @@
+server:
+  port: 820
+
+
+spring:
+  application:
+    name: tdg-sentinel-client
+
+
+
+logging:
+  level:
+    org:
+      springframework:
+        boot:
+          autoconfigure: ERROR

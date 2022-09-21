@@ -1,0 +1,4 @@
+﻿sentinel
+
+作为普通springboot项目计入sentinel
+
