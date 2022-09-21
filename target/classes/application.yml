@@ -1,12 +1,9 @@
 server:
-  port: 820
-
+  port: 8090
 
 spring:
   application:
     name: tdg-sentinel-client
-
-
 
 logging:
   level:

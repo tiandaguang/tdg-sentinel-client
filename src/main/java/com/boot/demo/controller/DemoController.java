@@ -17,7 +17,7 @@ import java.util.Map;
  * @Author Tian Daguang
  **/
 @RestController
-@RequestMapping("provider")
+@RequestMapping("sentinel/client")
 @Slf4j
 public class DemoController {
 
