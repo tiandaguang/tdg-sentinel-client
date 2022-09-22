@@ -4,10 +4,7 @@ server:
 spring:
   application:
     name: tdg-sentinel-client
-  cloud:
-    sentinel:
-      transport:
-        dashboard: localhost:8888
+
 logging:
   level:
     org:
