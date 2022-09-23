@@ -1,10 +1,6 @@
-server:
-  port: 8090
-
 spring:
-  application:
-    name: tdg-sentinel-client
-
+  profiles:
+    active: nacos
 logging:
   level:
     org:
