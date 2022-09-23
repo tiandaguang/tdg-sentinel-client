@@ -79,11 +79,6 @@
             <artifactId>sentinel-parameter-flow-control</artifactId>
             <version>${sentinel.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.alibaba.csp</groupId>
-            <artifactId>sentinel-datasource-nacos</artifactId>
-            <version>${sentinel.version}</version>
-        </dependency>
         <!-- nacos -cloud-->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
