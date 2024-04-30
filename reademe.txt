@@ -1,4 +1,5 @@
 ﻿sentinel
 
 作为普通springboot项目计入sentinel
+git@github.com:tiandaguang/tdg-sentinel-client.git
 
